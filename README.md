@@ -1,6 +1,6 @@
 - :wave: Hi, I’m Phanindra
 - :eyes: I’m interested in Data Science, Data Analytics and Machine Learning.
-- :computer:	 I’m currently learning Python, MySQL, Analytical skills, Tableau
+- :computer:	 I know Python, MySQL, PowerBI, Tableau
 - :handshake:	 I'm looking forward to colaborate on all topics related to Data Science, Data Analytics, Machine Learning, MySQL.
 - :mailbox:	 You can reach me on my email id - phaniullamgunta@gmail.com
 - :iphone: You can contact me on my mobile number - 9666666950.
